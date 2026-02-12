@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Taking ETextiles
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+[NEED TO ADD ELEVATOR PITCH]
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### A fun little fact about me...
 
-What else do you need?
+I really loved playing tetris in high school (still do), and I accidentally got it banned on my school chromebooks because I got so many other students into the game. Good news is, they only blocked one website, so I just moved to [a different one](/https://tetr.io/)
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
