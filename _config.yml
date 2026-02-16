@@ -20,7 +20,7 @@ author: Adelio Lechuga-Kanapilly
 ###############################################
 
 navbar-links:
-  About Me: "Why Etextiles"
+  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
