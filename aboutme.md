@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Why Etextiles?
 subtitle: Taking ETextiles
 ---
 
@@ -8,5 +8,5 @@ subtitle: Taking ETextiles
 
 ### A fun little fact about me...
 
-I really loved playing tetris in high school (still do), and I accidentally got it banned on my school chromebooks because I got so many other students into the game. Good news is, they only blocked one website, so I just moved to [a different one](/https://tetr.io/)
+I really loved playing tetris in high school (still do), and I accidentally got it banned on my school chromebooks because I got so many other students into the game. Good news is, they only blocked one website, so I just moved to [a different site.](https://tetr.io/)
 
