@@ -11,15 +11,15 @@ This project is a mini plushy made from felt, that when the switch is on and the
 Unfortunately, I forgot to take a picture of my progress during the alligator claw portion :(
 
 **Paper Prototype**
-![paperprototype](https://alechkana.github.io/assets/img/paperprototype.png)
+![paperprototype](https://alechkana.github.io/assets/img/paperprototype.jpg)
 
 
 **Front**
-![frontmonster](https://alechkana.github.io/assets/img/frontmonster.png)
+![frontmonster](https://alechkana.github.io/assets/img/frontmonster.jpg)
 
 
 **Back**
-![backmonster](https://alechkana.github.io/assets/img/backmonster.png)
+![backmonster](https://alechkana.github.io/assets/img/backmonster.jpg)
 
 
 **Hot Tip!**
