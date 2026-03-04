@@ -8,6 +8,7 @@ author: Adelio Lechuga-Kanapilly
 The program for this assignment copies the plushy assignment from earlier, turning LEDs on and off with buttons and switches.
 
 **Example of Results**
+
 ![ononon](https://alechkana.github.io/assets/img/ononon.png)
 
 **Tip:**
