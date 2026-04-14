@@ -1,6 +1,7 @@
 ---
-Title: Ghost Detector
-Subtitle: is it just me or is it getting cold in here?
+layout: Post
+title: Ghost Detector
+subtitle: is it just me or is it getting cold in here?
 Author: Adelio Lechuga-Kanapilly
 ---
 
