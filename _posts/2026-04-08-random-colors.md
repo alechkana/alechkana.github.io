@@ -1,6 +1,7 @@
 ---
-Title: Random Colors
-Author: Adelio Lechuga-Kanapilly
+layout: post
+title: Random Colors
+author: Adelio Lechuga-Kanapilly
 ---
 
 This program is meant to turn a random RGB on when a button is pressed.
