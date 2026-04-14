@@ -1,6 +1,7 @@
 ---
-Title: Sparklies Midterm Project
-Author: Adelio Lechuga-Kanapilly
+layout: Post
+title: Sparklies Midterm Project
+author: Adelio Lechuga-Kanapilly
 ---
 
 This code is meant to combine three separate "firefly" flashing lights onto an Arduino board.
