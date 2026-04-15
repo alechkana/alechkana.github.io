@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: Ghost Detector
 subtitle: is it just me or is it getting cold in here?
 Author: Adelio Lechuga-Kanapilly
