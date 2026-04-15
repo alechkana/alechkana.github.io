@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: Sparklies Midterm Project
 author: Adelio Lechuga-Kanapilly
 ---
