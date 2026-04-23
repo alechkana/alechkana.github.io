@@ -5,4 +5,4 @@ Layout: post
 Author: Adelio Lechuga-Kanapilly
 ---
 
-![proposal](https://alechkana.github.io/assets/img/proposal.png)
+![proposal](https://alechkana.github.io/assets/img/proposal.jpg)
