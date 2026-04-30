@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final - Paper Prototype
+title: Final Project Paper Prototype
 tags: 
 author: Adelio Lechuga-Kanapilly
 ---
